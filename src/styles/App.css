@@ -1,0 +1,20 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+}
+.pilotName{
+  background-color: white;
+}
+.jumbotron{
+  background-color: white;
+}
+.card{
+  background-color: white;
+}
